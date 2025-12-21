@@ -1,0 +1,41 @@
+# Core RAG Dependencies
+langchain==0.1.0
+langchain-community==0.0.13
+langchain-huggingface==0.0.1
+
+# Vector Store & Embeddings
+faiss-cpu==1.7.4
+
+# LLM Support
+transformers==4.36.2
+torch==2.1.2
+accelerate==0.25.0
+bitsandbytes==0.41.3
+openai==1.7.2
+
+# Document Processing
+pypdf==3.17.4
+python-docx==1.1.0
+beautifulsoup4==4.12.2
+lxml==5.1.0
+unstructured==0.11.8
+markdown==3.5.1
+
+# API & Web Framework
+fastapi==0.109.0
+uvicorn==0.27.0
+pydantic==2.5.3
+python-multipart==0.0.6
+
+# Utilities
+python-dotenv==1.0.0
+tqdm==4.66.1
+numpy==1.26.3
+pandas==2.1.4
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.23.3
+
+# Logging & Monitoring
+loguru==0.7.2

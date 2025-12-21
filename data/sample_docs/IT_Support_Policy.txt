@@ -1,0 +1,89 @@
+JOHNS HOPKINS UNIVERSITY
+INFORMATION TECHNOLOGY SUPPORT POLICY
+Version 2.3 | Fall 2025
+
+OVERVIEW
+This document outlines the IT support policies and procedures for all Johns Hopkins University faculty, staff, and students. The IT Support Team is committed to providing timely and effective technical assistance.
+
+SUPPORT HOURS
+- Standard Support: Monday-Friday, 8:00 AM - 6:00 PM EST
+- Emergency Support: 24/7 for critical systems
+- Response Time: 
+  * Critical Issues: Within 1 hour
+  * High Priority: Within 4 hours
+  * Medium Priority: Within 24 hours
+  * Low Priority: Within 72 hours
+
+CONTACT METHODS
+1. Help Desk Portal: support.jhu.edu
+2. Email: itsupport@jhu.edu
+3. Phone: (410) 516-HELP (4357)
+4. Walk-in: Homewood Campus, Garland Hall Room 105
+
+COMMON ISSUES AND SOLUTIONS
+
+Password Reset:
+All JHU accounts follow a 90-day password expiration policy. Passwords must be at least 12 characters with uppercase, lowercase, numbers, and special characters. To reset your password, visit password.jhu.edu or call the help desk.
+
+VPN Access:
+Johns Hopkins provides Cisco AnyConnect VPN for secure remote access. Download from vpn.jhu.edu. All faculty and staff are automatically provisioned. Students must request access through the Student Services portal.
+
+Email Configuration:
+JHU uses Microsoft Office 365 for email services. Configure your email client with:
+- Incoming Server: outlook.office365.com
+- Outgoing Server: smtp.office365.com
+- Authentication: Required with JHED credentials
+
+Software Installation:
+Approved software can be installed through the JHU Software Center. Enterprise licenses are available for:
+- Microsoft Office 365 Suite
+- Adobe Creative Cloud (for approved departments)
+- MATLAB (for engineering and research)
+- SPSS and SAS (for research and analytics)
+- Zoom Enterprise
+- Slack Enterprise Grid
+
+Hardware Support:
+University-owned computers receive full hardware support. Personal devices receive limited software support only. Loaner laptops are available for critical work during repairs (3-5 business days).
+
+DATA SECURITY POLICIES
+All university data must be classified as Public, Internal, Confidential, or Restricted. Confidential and Restricted data require encryption at rest and in transit. Use OneDrive for Business or JHU Box for cloud storage - personal cloud services (Dropbox, Google Drive) are prohibited for university data.
+
+PROHIBITED ACTIVITIES
+- Sharing JHED credentials
+- Installing unauthorized software
+- Using personal cloud storage for sensitive data
+- Connecting unauthorized devices to the network
+- Bypassing security controls
+- Peer-to-peer file sharing on university network
+
+INCIDENT REPORTING
+Security incidents must be reported immediately to security@jhu.edu or call 410-516-8888. This includes:
+- Lost or stolen devices
+- Suspected malware infections
+- Phishing attempts
+- Unauthorized access
+- Data breaches
+
+TRAINING AND RESOURCES
+Required annual training:
+- Information Security Awareness (all users)
+- HIPAA Compliance (for medical staff)
+- Data Privacy Training (for those handling PII)
+
+Optional resources available at learning.jhu.edu
+
+ESCALATION PROCEDURES
+Level 1: Help Desk (initial contact)
+Level 2: Specialized Support Teams
+Level 3: Vendor Support or Engineering Teams
+Level 4: Executive IT Leadership
+
+For issues not resolved within SLA timeframes, automatic escalation occurs to the next level.
+
+FEEDBACK
+We value your feedback. Complete our satisfaction survey after each interaction. Results are reviewed monthly to improve service quality.
+
+Last Updated: October 2025
+Contact: IT Service Management Office
+Email: itsm@jhu.edu

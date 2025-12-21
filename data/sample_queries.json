@@ -1,0 +1,63 @@
+{
+  "test_queries": [
+    {
+      "category": "IT Support",
+      "queries": [
+        "How do I reset my password?",
+        "What are the password requirements?",
+        "How do I setup VPN access?",
+        "What is the IT support phone number?",
+        "How do I request software installation?",
+        "What should I do if my laptop is stolen?"
+      ]
+    },
+    {
+      "category": "Benefits",
+      "queries": [
+        "What health insurance options are available?",
+        "How much does the HDHP plan cost?",
+        "When can I enroll in benefits?",
+        "What is the retirement plan match percentage?",
+        "Do I get tuition remission as an employee?",
+        "How many vacation days do new employees get?"
+      ]
+    },
+    {
+      "category": "Remote Work",
+      "queries": [
+        "What is the remote work policy?",
+        "Can I work from home full time?",
+        "Do I need approval to work remotely?",
+        "What equipment does the university provide for remote work?",
+        "Is there an internet reimbursement for remote workers?"
+      ]
+    },
+    {
+      "category": "Security",
+      "queries": [
+        "How do I report a security incident?",
+        "What is the data classification policy?",
+        "Can I use Dropbox for university files?",
+        "What are the signs of a phishing email?",
+        "Is multi-factor authentication required?"
+      ]
+    },
+    {
+      "category": "Onboarding",
+      "queries": [
+        "What should I bring on my first day?",
+        "Where is the HR office located?",
+        "How long is the onboarding process?",
+        "When will I get my employee ID badge?",
+        "What training is required in my first week?"
+      ]
+    }
+  ],
+  "expected_response_elements": {
+    "IT Support": ["password", "410-516-4357", "itsupport@jhu.edu", "12 characters", "VPN"],
+    "Benefits": ["health insurance", "retirement", "403(b)", "5%", "tuition", "vacation"],
+    "Remote Work": ["hybrid", "remote", "supervisor approval", "equipment", "stipend"],
+    "Security": ["security@jhu.edu", "410-516-8888", "classification", "phishing", "MFA"],
+    "Onboarding": ["first day", "Garland Hall", "ID", "orientation", "training"]
+  }
+}
