@@ -1,11 +1,9 @@
-# Enterprise Knowledge Assistant | Johns Hopkins University
+# Enterprise Knowledge Assistant
 
 A production-ready Retrieval-Augmented Generation (RAG) system for intelligent Q&A over enterprise documents, featuring semantic search, context-aware retrieval, and flexible LLM support.
 
 
 ## 🎯 Project Overview
-
-This project implements an intelligent knowledge assistant that enables natural language querying over enterprise document repositories. Built for Johns Hopkins University's Fall 2025 cohort, it demonstrates advanced RAG techniques including:
 
 - **Multi-format Document Processing**: PDF, DOCX, TXT, MD, HTML
 - **Semantic Embeddings**: Context-aware retrieval using Sentence Transformers
